@@ -1,6 +1,11 @@
 html{
     background-color: white ;
+    font-weight: bolder;
+    font-style: sans-serif;
 }
 p {
     color: rebeccapurple;
+}
+h1{
+    font-style: italic;
 }
