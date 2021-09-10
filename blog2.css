@@ -10,6 +10,6 @@ h1{
     font-style: italic;
 }
 
-img {
-    transform: scale(2,2);
+img :hover {
+    transform: scale(1,1.4);
 }
