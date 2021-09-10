@@ -10,7 +10,7 @@ h1{
     font-style: italic;
 }
 
-.grow img:hover {
+.grow img {
     transform: scale(2,2);
     transition-duration: 2s;
 }
