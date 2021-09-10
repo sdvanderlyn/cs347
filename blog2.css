@@ -12,8 +12,9 @@ h1{
 
 .grow img:hover {
     transform: scale(2,2);
+    transition-duration: 2s;
 }
 
 .grow img{
-    transition: 1s ease;
+    transition: ease;
 }
