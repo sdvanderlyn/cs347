@@ -7,17 +7,17 @@ html{
 p {
     color: rebeccapurple;
     font-size: +2;
+    font-family: cursive;
+    font-weight: bolder;
 
 }
 h1{
     font-style: italic;
 }
 
-.grow img {
+.grow img:hover {
     transform: scale(2,2);
-    transition-duration: 2s;
-}
-
-.grow img{
-    transition: ease;
+    transition-duration: 1s;
+    position: relative;
+    box-shadow: goldenrod;
 }
