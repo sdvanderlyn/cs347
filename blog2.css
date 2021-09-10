@@ -1,5 +1,5 @@
 html{
-    background-color: olive ;
+    background-color: rgb(159, 224, 53) ;
     font-weight: bolder;
 }
 
@@ -20,4 +20,11 @@ h1{
     transition-duration: 1s;
     position: relative;
     box-shadow: goldenrod;
+}
+
+.fun img:hover {
+    image-rendering: crisp-edges;
+    -moz-box-shadow: 0 0 10px #ccc;
+    -webkit-box-shadow: 0 0 10px #ccc;
+     box-shadow: 0 0 10px #ccc;
 }
