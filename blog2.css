@@ -14,6 +14,7 @@ p {
 }
 h1{
     font-style: italic;
+    color: white;
 }
 
 .grow img:hover {
