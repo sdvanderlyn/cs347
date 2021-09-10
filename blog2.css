@@ -9,3 +9,7 @@ p {
 h1{
     font-style: italic;
 }
+
+img {
+    transform: scale(2,2);
+}
