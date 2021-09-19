@@ -8,4 +8,6 @@ html {
     border-radius: 0px;
     border: double;
     background-color: lightsalmon;
+    box-sizing: border-box;
+    border-color: black;
 }
