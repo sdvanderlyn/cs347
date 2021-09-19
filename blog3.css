@@ -4,7 +4,7 @@ html {
     font-family: monospace;
 }
 
-Resources {
+.Resources {
     border-radius: 0px;
     border: double;
     background-color: lightsalmon;
