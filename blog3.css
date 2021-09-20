@@ -1,13 +1,14 @@
 html {
     background-color: salmon;
-    color: dodgerblue;
+    color: black;
     font-family: monospace;
 }
 
 .Resources {
-    border-radius: 0px;
+    border-radius: 2px;
     border: double;
-    background-color: lightsalmon;
+    background-color: pink;
+    color: purple;
     box-sizing: border-box;
     border-color: black;
 }
